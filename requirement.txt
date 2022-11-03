@@ -1,4 +1,2 @@
-This is the requirements file. It is made to commit to the git.
-clear
-
-more changes in the file.
+This is the new requirement.txt file that has been updated.
+Its okay
